@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/38843229/198265721-457a365e-cdc9-4994-abcb-a0e3d813c185.png)
+![banner_1920x379](https://user-images.githubusercontent.com/38843229/199560629-add1c81c-4169-423d-a7b5-c13449fd78d3.png)
 
 ```yaml
 frontend: 
