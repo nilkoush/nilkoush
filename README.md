@@ -1,7 +1,6 @@
 ![banner_1920x379](https://user-images.githubusercontent.com/38843229/199560629-add1c81c-4169-423d-a7b5-c13449fd78d3.png)
 
-<h1 align="center">Hello there, I'm Nikolas 👋</h1>
-<h3 align="center">I'm website / webapp designer and developer.</h3>
+<h1 align="left">Hello there, I'm Nikolas 👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
