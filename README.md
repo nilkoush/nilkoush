@@ -4,9 +4,9 @@
 
 <h2>I'm here for you 💬</h2>
 <div>
-  <a href="https://twitter.com/nilkoush" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilkoush" height="30" width="40" /></a>
   <a href="https://instagram.com/nilkoush" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilkoush" height="30" width="40" /></a>
   <a href="https://dribbble.com/nilkoush" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nilkoush" height="30" width="40" /></a>
+  <a href="https://twitter.com/nilkoush" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilkoush" height="30" width="40" /></a>
 </div>
 
 <h2>What I do? 💭</h2>
