@@ -4,9 +4,10 @@
 
 <h2>I'm here for you 💬</h2>
 <div>
-  <a href="https://instagram.com/nilkoush" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilkoush" height="30" width="40" /></a>
-  <a href="https://dribbble.com/nilkoush" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nilkoush" height="30" width="40" /></a>
-  <a href="https://twitter.com/nilkoush" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilkoush" height="30" width="40" /></a>
+  <a href="https://dev.to/nilkoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nilkoush" height="30" width="40" /></a>
+  <a href="https://twitter.com/nilkoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilkoush" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nikolasstanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolasstanga" height="30" width="40" /></a>
+  <a href="https://discord.gg/invite/Xwjymdu2vW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/Xwjymdu2vW" height="30" width="40" /></a>
 </div>
 
 <h2>What I do? 💭</h2>
