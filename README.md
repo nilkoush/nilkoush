@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Nikolas 👋</h1>
 
-<p align="center">I'm a <strong>self-taught</strong> young <strong>freelance</strong> web / app <strong>designer</strong> and also <strong>developer</strong> from Czech Republic. I've been doing stuff around web for nearly <strong>3 years</strong> now.</p>
+<p align="center">I'm a <strong>self-taught</strong> young <strong>software engineer</strong> from Czech Republic. I've been doing stuff around web for nearly <strong>3 years</strong> now.</p>
 
 <h2>I'm here for you 💬</h2>
 <div>
