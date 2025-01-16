@@ -1,9 +1,9 @@
 <div align="center">
   <h1 align="center">Hi, I'm Nikolas 🔮</h1>
-  <a href="https://www.instagram.com/nilkoush">
+  <a href="https://www.instagram.com/nilkoush" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://discord.com/users/373042216924348436">
+  <a href="https://discord.com/users/373042216924348436" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
