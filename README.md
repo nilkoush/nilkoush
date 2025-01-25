@@ -11,12 +11,16 @@
 <p align="center">I'm a <strong>self-taught</strong> young <strong>software engineer</strong> from the Czech Republic.</p>
 
 ## ✨ Projects
-### 🍅 [Rajce.pro](https://rajce.pro)
+### 🍅 [Rajce.pro](https://github.com/rajce-pro)
 - Custom websites [rajce.pro](https://rajce.pro) and [store.rajce.pro](https://store.rajce.pro).
 - Custom Minecraft plugins including minigames and other systems.
 
 ### 👕 [Merchify.cz](https://merchify.cz) (Currently closed)
 - Shopify theme for Czech organisation specializing in selling merchandise for Czech YouTubers.
+
+### Side projects
+- [jacobscompany.cz](https://jacobscompany.cz/) - portfolio website
+- [mayoss.cz](https://mayoss.cz) - maintainer
 
 ## ✨ Experience
 - `[Jan 2018 - May 2020]` Founder & Java Developer for Czech Minecraft server Vexity.eu
