@@ -19,6 +19,7 @@
 - Shopify theme for Czech organisation specializing in selling merchandise for Czech YouTubers.
 
 ### Side projects
+- [nt.nilkoush.dev](https://nt.nilkoush.dev/) - stunning "New Tab" experience
 - [jacobscompany.cz](https://jacobscompany.cz/) - portfolio website
 - [mayoss.cz](https://mayoss.cz) - maintainer
 
