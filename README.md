@@ -27,7 +27,7 @@
 - `[Jan 2018 - May 2020]` Founder & Java Developer for Czech Minecraft server Vexity.eu
 - `[Dec 2022 - present]` Software Engineer for Czech Minecraft server **[Rajce.pro](https://rajce.pro/)**
 
-## 📊 Weekly
+## ✨ Weekly
 <!--START_SECTION:waka-->
 
 ```txt
