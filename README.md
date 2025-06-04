@@ -31,15 +31,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2025 - To: 01 June 2025
+From: 26 May 2025 - To: 02 June 2025
 
-Total Time: 63 hrs 47 mins
+Total Time: 62 hrs 52 mins
 
-TypeScript     51 hrs 55 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   81.40 %
-Java           7 hrs 46 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.19 %
-CSS            1 hr 10 mins    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.84 %
-Docker         41 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.10 %
-SQL            37 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.99 %
+TypeScript   54 hrs 35 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   86.84 %
+Java         3 hrs 58 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.31 %
+CSS          56 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.49 %
+Docker       41 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.11 %
 ```
 
 <!--END_SECTION:waka-->
