@@ -16,6 +16,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           IGNORED_LANGUAGES: YAML JSON TOML
+          COMMIT_MESSAGE: waka waka
+          COMMITTER_NAME: shakira
+          COMMITTER_EMAIL: action-bot@github.com
           SHOW_TOTAL: true
           LANG_COUNT: 5
           SHOW_TITLE: true
