@@ -12,8 +12,15 @@
 
 ## ✨ Projects
 ### 🍅 [Rajce.pro](https://github.com/rajce-pro)
-- Custom websites [rajce.pro](https://rajce.pro) and [store.rajce.pro](https://store.rajce.pro).
+- Website [rajce.pro](https://rajce.pro).
+- Minestore theme [store.rajce.pro](https://store.rajce.pro)
 - Custom Minecraft plugins including minigames and other systems.
+
+### 🐟 [MCRybář](https://github.com/mcrybar)
+- Landing page [mcrybar.cz](https://mcrybar.cz) and [store.rajce.pro](https://store.rajce.pro).
+- Minestore theme [store.mcrybar.cz](https://store.mcrybar.cz).
+- Administration panel and ticket system [panel.mcrybar.cz](https://panel.mcrybar.cz).
+- API and libraries based on Paper API to build minigames and other systems easier.
 
 ### 👕 [Merchify.cz](https://merchify.cz) (Currently closed)
 - Shopify theme for Czech organisation specializing in selling merchandise for Czech YouTubers.
@@ -26,6 +33,7 @@
 ## ✨ Experience
 - `[Jan 2018 - May 2020]` Founder & Java Developer for Czech Minecraft server Vexity.eu
 - `[Dec 2022 - present]` Software Engineer for Czech Minecraft server **[Rajce.pro](https://rajce.pro/)**
+- `[Nov 2024 - present]` Software Engineer for Czech Minecraft server **[MCRybář](https://mcrybar.cz/)**
 
 ## ✨ Main stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
