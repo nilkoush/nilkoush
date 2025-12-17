@@ -51,14 +51,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2025 - To: 14 December 2025
+From: 08 December 2025 - To: 15 December 2025
 
-Total Time: 13 hrs 25 mins
+Total Time: 12 hrs 54 mins
 
-Java              9 hrs 5 mins    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   67.77 %
-SQL               1 hr 49 mins    ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.65 %
-Kotlin            1 hr 10 mins    ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.76 %
-TypeScript        14 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.77 %
+Java              7 hrs 26 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱   57.63 %
+SQL               2 hrs 5 mins    ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.23 %
+TypeScript        1 hr 30 mins    ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.75 %
+Kotlin            30 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.93 %
+Python            12 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.64 %
 ```
 
 <!--END_SECTION:waka-->
