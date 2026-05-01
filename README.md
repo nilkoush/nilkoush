@@ -11,24 +11,23 @@
 <p align="center">I'm a <strong>self-taught</strong> young <strong>software engineer</strong> from the Czech Republic.</p>
 
 ## ✨ Projects
-### 🍅 [Rajce.pro](https://github.com/rajce-pro)
-- Website [rajce.pro](https://rajce.pro).
-- Minestore theme [store.rajce.pro](https://store.rajce.pro)
-- Custom Minecraft plugins including minigames and other systems.
-
 ### 🐟 [MCRybář](https://github.com/mcrybar)
 - Landing page [mcrybar.cz](https://mcrybar.cz).
 - Minestore theme [store.mcrybar.cz](https://store.mcrybar.cz).
 - Administration panel and ticket system [panel.mcrybar.cz](https://panel.mcrybar.cz).
 - API and libraries based on Paper API to build minigames and other systems easier.
+- Developed official custom minigames for commercial partners **[Kaufland](https://www.kaufland.cz/)** and **[Bezvafest](https://bezvafest.cz/)** (via [SirYakari](https://www.youtube.com/@SirYakari)).
 
-### 👕 [Merchify.cz](https://merchify.cz) (Currently closed)
+### 🍅 [Rajce.pro](https://github.com/rajce-pro)
+- Website [rajce.pro](https://rajce.pro).
+- Minestore theme [store.rajce.pro](https://store.rajce.pro)
+- Custom Minecraft plugins including minigames and other systems.
+
+### 👕 Merchify.cz (Currently closed)
 - Shopify theme for Czech organisation specializing in selling merchandise for Czech YouTubers.
 
 ### Side projects
 - [nt.nilkoush.dev](https://nt.nilkoush.dev/) - stunning "New Tab" experience
-- [jacobscompany.cz](https://jacobscompany.cz/) - portfolio website
-- [mayoss.cz](https://mayoss.cz) - maintainer
 
 ## ✨ Experience
 - `[Jan 2018 - May 2020]` Founder & Java Developer for Czech Minecraft server Vexity.eu
