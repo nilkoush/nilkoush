@@ -50,14 +50,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 12 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-Total Time: 34 hrs 34 mins
+Total Time: 28 hrs 23 mins
 
-Java              17 hrs 47 mins        ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   51.48 %
-TypeScript        7 hrs 28 mins         ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   21.64 %
-Other             1 hr 49 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.29 %
-Kotlin            1 hr 35 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.60 %
+Java              14 hrs 21 mins        ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.58 %
+TypeScript        4 hrs 42 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.56 %
+SQL               1 hr 33 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.51 %
+Other             1 hr 32 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.43 %
 ```
 
 <!--END_SECTION:waka-->
