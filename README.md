@@ -50,14 +50,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2026 - To: 20 May 2026
+From: 14 May 2026 - To: 21 May 2026
 
-Total Time: 22 hrs 39 mins
+Total Time: 21 hrs 31 mins
 
-TypeScript        15 hrs 47 mins        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   69.66 %
-Java              3 hrs 40 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.20 %
-SQL               1 hr 1 min            ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.54 %
-CSS               30 mins               ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.26 %
+TypeScript        14 hrs 57 mins        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   69.44 %
+Java              3 hrs 37 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.83 %
+SQL               45 mins               ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.53 %
+CSS               30 mins               ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.37 %
 ```
 
 <!--END_SECTION:waka-->
