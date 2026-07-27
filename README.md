@@ -13,7 +13,7 @@
 ## ✨ Projects
 ### 🐟 [MCRybář](https://github.com/mcrybar)
 - Landing page [mcrybar.cz](https://mcrybar.cz).
-- Minestore theme [store.mcrybar.cz](https://store.mcrybar.cz).
+- Custom e-store solution [store.mcrybar.cz](https://store.mcrybar.cz).
 - Administration panel and ticket system [panel.mcrybar.cz](https://panel.mcrybar.cz).
 - API and libraries based on Paper API to build minigames and other systems easier.
 - Developed official custom minigames for commercial partners **[Kaufland](https://www.kaufland.cz/)** and **[Bezvafest](https://bezvafest.cz/)** (via [SirYakari](https://www.youtube.com/@SirYakari)).
