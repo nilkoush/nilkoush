@@ -50,14 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2026 - To: 15 September 2026
+From: 09 September 2026 - To: 16 September 2026
 
-Total Time: 32 hrs 57 mins
+Total Time: 21 hrs 58 mins
 
-Java                25 hrs 20 mins        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   76.88 %
-Other               2 hrs 44 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.33 %
-Kotlin              2 hrs 14 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.79 %
-HTML                28 mins               ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.43 %
+Java              17 hrs 54 mins        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   81.49 %
+Other             2 hrs 7 mins          ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.66 %
+Kotlin            36 mins               ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.79 %
+HTML              25 mins               ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.90 %
+Properties        13 mins               ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.03 %
 ```
 
 <!--END_SECTION:waka-->
